@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @22jyotikushwaha.
 - 👀 I’m interested in coding.
 - 🌱 I’m currently pursuing MCA.
+- 📖 I have completed my BCA from Lucknow University(Integral & Innovative Sustainable Education College).
   
 
 <!---
